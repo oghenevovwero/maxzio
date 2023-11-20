@@ -1,4 +1,4 @@
-#  Deji and Kola website breakdown
+#  Maxzio website breakdown
 
 1. ## Floating action button
 2. ## All Pages
